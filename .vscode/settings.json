@@ -1,0 +1,9 @@
+{
+    "jumpToAliasFile.alias": {
+        "Components": "d:\\Projects\\react-boilerplate\\src\\Components",
+        "Actions": "d:\\Projects\\react-boilerplate\\src\\App\\Store\\Actions",
+        "ActionTypes": "d:\\Projects\\react-boilerplate\\src\\App\\Store\\Actions\\Types",
+        "Reducers": "d:\\Projects\\react-boilerplate\\src\\App\\Store\\Reducers",
+        "Store": "d:\\Projects\\react-boilerplate\\src\\App\\Store"
+    }
+}
